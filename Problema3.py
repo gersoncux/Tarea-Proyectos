@@ -78,6 +78,8 @@ while True:
             print("\n")
     except:
             print("\n")
+            print("-----------------")
             print("Datos incorrectos")
+            print("-----------------")
             print("\n")
         
